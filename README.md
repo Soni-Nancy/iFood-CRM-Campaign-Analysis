@@ -7,4 +7,5 @@ The objectives of this analysis are threefold:
 1. Explore the dataset to gain a comprehensive understanding of customer characteristics and behaviour.
 2. Propose a segmentation strategy based on customer behaviours to enable targeted marketing efforts.
 3. Develop predictive models to forecast customer response to future marketing campaigns and maximize profitability.
+
 Through the application of advanced analytics techniques, including exploratory data analysis, customer segmentation, and predictive modelling, this report aims to provide actionable recommendations to the marketing team at iFood, ultimately driving more effective and efficient marketing campaigns.
